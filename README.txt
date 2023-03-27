@@ -1,3 +1,7 @@
+Kunal's Note: This is a reposting of my group's code. I personally worked along with Zachary Qin on the table.c module which handles the backend of the game.
+In addition I also worked on implementing a lot of the pre-made networking code in network.c into our own program i.e. when to send and receive messages from 
+different clients.
+
 Author:  Tommy Kung, Kunal Paode, Zachary Qin, Chenhao Yang, Jeffrey Yu
 
 Version: 1.0
